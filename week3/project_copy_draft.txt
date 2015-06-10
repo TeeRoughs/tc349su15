@@ -1,0 +1,29 @@
+TC 349
+Draft of copy for final project
+
+
+Home
+	>"Welcome to Roughdrawn! Either click to navigate or follow the lines"
+
+
+Art
+	Designs
+	>"Logos, layouts, and other vector work"
+	
+	Illustrations
+	>"Characters, sketches, and raster work"
+	
+	Paintings
+	>"Abstract, portraiture, and landscape images"
+	
+	Fan art
+	>"Images inspired from comics, video games, and elsewhere"
+		
+Contact
+	About the artist
+	>"My name is Tom Ruffley; I am a Michigan-based artist who has been drawing for most of my life.  The focus is on digital drawing/painting with a small amount of design on the side. I made the transition from paper to pixel a few years ago and I have not looked back since.  
+	
+	>"I am working more and more on my landscapes and abstract work, but you will always find me working on portraiture; drawing people from life and imagination is still my favorite."
+	
+	>"On this site you will find a collection of my personal projects along with a few professional ones (whenever possible). Enjoy!"
+	
