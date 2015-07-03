@@ -4,7 +4,7 @@ function start()
 	{window.location.hash="start";}
 	
 function about()
-	{window.location.hash="aboutme";
+	{window.location.hash="aboutme";}
 	
 function portfolio()
-	{window.location.hash="portfolio";
+	{window.location.hash="portfolio";}
